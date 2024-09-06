@@ -1,0 +1,63 @@
+# Test your understanding {#sec-quiz}
+
+**Question 1: Which of the following best describes the primary goal of open research?**
+
+a)  to restrict access to research findings to only a select group of experts
+b)  to increase the transparency, accessibility, and reproducibility of research
+c)  to ensure that all research is conducted privately and results are kept confidential
+d)  to prioritise commercial interests over public knowledge and scientific progress
+
+::: {.callout-caution collapse="true"}
+## Click to reveal the answer to Question 1
+
+b)  to increase the transparency, accessibility, and reproducibility of research
+:::
+
+**Question 2: Which of the following is a key consideration when planning your research project?**
+
+a)  choosing a research topic that has never been explored before
+b)  identifying and addressing ethical considerations related to data sharing (and participant consent if relevant)
+c)  keeping all research methodologies confidential until the project is completed
+d)  planning to publish results in the most expensive journal possible
+
+::: {.callout-caution collapse="true"}
+## Click to reveal the answer to Question 2
+
+b)  identifying and addressing ethical considerations related to data sharing (and participant consent if relevant)
+:::
+
+**Question 3: Which practice best aligns with open research principles in the analysis stage of your research project?**
+
+a)  using open-source software for data analysis to ensure transparency and reproducibility
+b)  relying on proprietary software that limits the ability of others to replicate your findings
+c)  using open-source software for data analysis to ensure transparency and reproducibility
+
+::: {.callout-caution collapse="true"}
+## Click to reveal the answer to Question 3
+
+a)  using open-source software for data analysis to ensure transparency and reproducibility
+:::
+
+**Question 4: What is a key component of sharing results in open research?**
+
+a)  publishing your findings in a paywalled journal without uploading a version of your article to a repository
+b)  publishing only a summary of your findings without making the underlying data or code available
+c)  making your data, code and publications openly available
+
+::: {.callout-caution collapse="true"}
+## Click to reveal the answer to Question 4
+
+c)  making your data, code and publications openly available
+:::
+
+**Question 5: Which of the following best measures the impact of your open research project?**
+
+a)  tracking the number of downloads and citations of your openly shared data and publications
+b)  counting the number of citations your work receives
+c)  evaluating the financial profit generated from your research findings
+
+::: {.callout-caution collapse="true"}
+## Click to reveal the answer to Question 5
+
+a)  tracking the number of downloads and citations of your openly shared data and publications
+:::

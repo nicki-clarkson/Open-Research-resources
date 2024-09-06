@@ -1,0 +1,21 @@
+# About this resource {#sec-about}
+
+This self-study module was created by the Open Research & Publication Practice Team at the [University of Southampton Library](https://library.soton.ac.uk/).
+
+If you have any questions, comments or feedback please contact us at [eprints.soton.ac.uk](mailto:eprints@soton.ac.uk)
+
+## Use, share and modify
+
+We are proud to offer this Quarto website as an Open Educational Resource (OER). This means that all the content provided here is freely available for you to use, share, and modify.
+
+You are welcome to:
+
+-   **Use**: Feel free to use this resource for your own learning or teaching purposes.
+
+-   **Share**: Distribute the content to others who might benefit from it. No attribution is required.
+
+-   **Modify**: Adapt or modify the content for your audience. The Quarto source code used to create this website is available on GitHub.
+
+## Our GitHub repository
+
+\[link to be added\]

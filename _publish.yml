@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e7a4038a-a8f6-4f16-8d70-8777c4f5f44a
+      url: 'https://nsc.quarto.pub/introduction-to-open-research'

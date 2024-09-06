@@ -1,0 +1,35 @@
+{
+  "OpenResearch.qmd": {
+    "OpenResearch.html": "6555a960"
+  },
+  "index.qmd": {
+    "index.html": "d708ffb5"
+  },
+  "Planning.qmd": {
+    "Planning.html": "c26aa266"
+  },
+  "Funding.qmd": {
+    "Funding.html": "cd7c4846"
+  },
+  "Conducting.qmd": {
+    "Conducting.html": "c738cccc"
+  },
+  "Analysing.qmd": {
+    "Analysing.html": "4c21822d"
+  },
+  "Sharing.qmd": {
+    "Sharing.html": "8359eab2"
+  },
+  "Evaluating.qmd": {
+    "Evaluating.html": "ecfce1cf"
+  },
+  "Resources.qmd": {
+    "Resources.html": "b300c6f5"
+  },
+  "About.qmd": {
+    "About.html": "b7c45f1d"
+  },
+  "Quiz.qmd": {
+    "Quiz.html": "e58756e5"
+  }
+}

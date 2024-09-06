@@ -1,0 +1,55 @@
+project:
+  title: "OpenResearch"
+  type: website
+  render: 
+    - index.qmd
+    - Planning.qmd
+    - Funding.qmd
+    - Conducting.qmd
+    - Analysing.qmd
+    - Sharing.qmd
+    - Evaluating.qmd
+    - Resources.qmd
+    - Quiz.qmd
+    - About.qmd
+  
+  
+website: 
+  title: "Introduction to Open Research"
+  sidebar: 
+    style: docked
+    search: true
+    contents:
+      - href: index.qmd
+        text: Principles of Open Research
+      - href: Planning.qmd
+        text: "Planning your project"
+      - href: Funding.qmd
+        text: "Securing funding and building your research team"
+      - href: Conducting.qmd
+        text: "Conducting your research"
+      - href: Analysing.qmd
+        text: "Analysis and interpretation of your results"
+      - href: Sharing.qmd
+        text: "Sharing your results"
+      - href: Evaluating.qmd
+        text: "Evaluation and impact"
+      - href: Resources.qmd
+        text: "Further resources"
+      - href: Quiz.qmd
+        text: Test your understanding
+      - href: About.qmd
+        text: "About this resource"
+  page-footer: "Created by the University of Southampton Library with a CC0 licence"
+        
+format: 
+  html: 
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    toc-expand: true
+    standalone: true
+editor: visual
+

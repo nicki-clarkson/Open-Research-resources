@@ -1,0 +1,11 @@
+# Further resources {#sec-resources}
+
+## FOSTER Open Science learning paths
+
+[FOSTER Open Science learning paths](https://www.fosteropenscience.eu/)
+
+## Open research in your field
+
+[UKRN case studies for different disciplines](https://www.ukrn.org/disciplines/)
+
+Next section: [Test your understanding](Quiz.qmd#sec-quiz)

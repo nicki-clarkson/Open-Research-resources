@@ -1,0 +1,1 @@
+Sitemap: https://nsc.quarto.pub/introduction-to-open-research/sitemap.xml

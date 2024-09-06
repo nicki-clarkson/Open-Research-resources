@@ -1,0 +1,17 @@
+{
+  "hash": "09e264d0b6a9e270c6841b9a139d13c2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Test your understanding {#sec-quiz}\n  \n\n\n\n\n\n\n\nWhich of the following best describes the primary goal of open research? <div class='webex-radiogroup' id='radio_QRGXWMXYKZ'><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_QRGXWMXYKZ\" value=\"\"></input> <span>To restrict access to research findings to only a select group of experts.</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_QRGXWMXYKZ\" value=\"answer\"></input> <span>To increase the transparency, accessibility, and reproducibility of research.</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_QRGXWMXYKZ\" value=\"\"></input> <span>To ensure that all research is conducted privately and results are kept confidential.</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_QRGXWMXYKZ\" value=\"\"></input> <span>To prioritise commercial interests over public knowledge and scientific progress.</span></label></div>\n\n\n```{.r .cell-code}\nopts_p <- c(\"To restrict access to research findings to only a select group of experts.\",\n            answer = \"To increase the transparency, accessibility, and reproducibility of research.\",\n            \"To ensure that all research is conducted privately and results are kept confidential.\", \n            \"To prioritise commercial interests over public knowledge and scientific progress.\")\n\nq1 <- longmcq(opts_p)\n\nopts_n <- c(answer = \"Yes\", \"No\")\n\nq2 <- mcq(opts_n)\n\ncat(\"Which of the following best describes the primary goal of open research?\", q1)\n```\n\nWhich of the following best describes the primary goal of open research? <div class='webex-radiogroup' id='radio_JFHKLPONKM'><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_JFHKLPONKM\" value=\"\"></input> <span>To restrict access to research findings to only a select group of experts.</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_JFHKLPONKM\" value=\"answer\"></input> <span>To increase the transparency, accessibility, and reproducibility of research.</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_JFHKLPONKM\" value=\"\"></input> <span>To ensure that all research is conducted privately and results are kept confidential.</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_JFHKLPONKM\" value=\"\"></input> <span>To prioritise commercial interests over public knowledge and scientific progress.</span></label></div>\n\n```{.r .cell-code}\ncat(\"Is Nicki passive aggressive\", q2)\n```\n\nIs Nicki passive aggressive <select class='webex-select'><option value='blank'></option><option value='answer'>Yes</option><option value=''>No</option></select>\n\n\n::: {.callout-caution collapse=\"true\"}\n## Expand To Learn About Collapse\n\nThis is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse=\"true\"` to collapse it by default or `collapse=\"false\"` to make a collapsible callout that is expanded by default.\n:::",
+    "supporting": [
+      "Quiz_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
