@@ -1,5 +1,12 @@
 # Securing funding and building your research team {#sec-funding}
 
+### A note about research data
+
+Your research data is the information you collect, observe or generate to support and validate your findings.
+
+-   **Evidence-based**: Research data serves as the foundation for research. It's what allows researchers to build a case for their findings and conclusions. 
+-   **Varied formats**: Data can come in many forms and can be digital and non-digital. For example, research may involve experimental data, surveys or field studies, observational data, reusing existing datasets, textual analysis, archival research, qualitatative data or artworks.
+
 +--------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Open Research practice                                                                                                               | Links to resources                                                                                                                                          | Alignment with FAIR                                                                                                                                                           |
 +======================================================================================================================================+=============================================================================================================================================================+===============================================================================================================================================================================+

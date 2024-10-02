@@ -1,0 +1,152 @@
+[
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About this resource",
+    "section": "",
+    "text": "This self-study module was created by the Open Research & Publication Practice Team at the University of Southampton Library.\nIf you have any questions, comments or feedback please contact us at eprints.soton.ac.uk\n\n\nWe are proud to offer this Quarto website as an Open Educational Resource (OER). This means that all the content provided here is freely available for you to use, share, and modify.\nYou are welcome to:\n\nUse: Feel free to use this resource for your own learning or teaching purposes.\nShare: Distribute the content to others who might benefit from it. No attribution is required.\nModify: Adapt or modify the content for your audience. The Quarto source code used to create this website is available on GitHub.\n\n\n\n\n[link to be added]",
+    "crumbs": [
+      "About this resource"
+    ]
+  },
+  {
+    "objectID": "About.html#use-share-and-modify",
+    "href": "About.html#use-share-and-modify",
+    "title": "About this resource",
+    "section": "",
+    "text": "We are proud to offer this Quarto website as an Open Educational Resource (OER). This means that all the content provided here is freely available for you to use, share, and modify.\nYou are welcome to:\n\nUse: Feel free to use this resource for your own learning or teaching purposes.\nShare: Distribute the content to others who might benefit from it. No attribution is required.\nModify: Adapt or modify the content for your audience. The Quarto source code used to create this website is available on GitHub.",
+    "crumbs": [
+      "About this resource"
+    ]
+  },
+  {
+    "objectID": "About.html#our-github-repository",
+    "href": "About.html#our-github-repository",
+    "title": "About this resource",
+    "section": "",
+    "text": "[link to be added]",
+    "crumbs": [
+      "About this resource"
+    ]
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Further resources",
+    "section": "",
+    "text": "FOSTER Open Science learning paths\n\n\n\nUKRN case studies for different disciplines\nNext section: Test your understanding",
+    "crumbs": [
+      "Further resources"
+    ]
+  },
+  {
+    "objectID": "Resources.html#foster-open-science-learning-paths",
+    "href": "Resources.html#foster-open-science-learning-paths",
+    "title": "Further resources",
+    "section": "",
+    "text": "FOSTER Open Science learning paths",
+    "crumbs": [
+      "Further resources"
+    ]
+  },
+  {
+    "objectID": "Resources.html#open-research-in-your-field",
+    "href": "Resources.html#open-research-in-your-field",
+    "title": "Further resources",
+    "section": "",
+    "text": "UKRN case studies for different disciplines\nNext section: Test your understanding",
+    "crumbs": [
+      "Further resources"
+    ]
+  },
+  {
+    "objectID": "Sharing.html",
+    "href": "Sharing.html",
+    "title": "Sharing your results",
+    "section": "",
+    "text": "Sharing your results\n\n\n\nOpen Research practice\nLinks to resources\nAlignment with FAIR\n\n\n\n\nShare the citation and access information for your deposited data along with your research publications, enabling others to access and potentially reuse it\nUniversity of Southampton Library: Research Data\nFindable & Accessible\n\n\nOpenly share your negative or inconclusive findings, even if not intended for formal publication\nPublishing negative results is good for science\nWhy (and how) we should publish negative data\nFindable & Accessible\n\n\nPublish your research findings in open access journals and/or deposit them in open access repositories with a permissive reuse licence\nUniversity of Southampton Library: Open Access\nAccessible & Reusable\n\n\nReach out to journalists, science communicators, or bloggers to share your research in a way that is engaging and understandable for the general public\nThe Turing Way: A handbook for reproducible, ethical and collaborative research: guide for communication\nWhile not directly addressing with FAIR principles, public communication increases awareness and understanding of your research\n\n\n\nNext section: Evaluation and impact",
+    "crumbs": [
+      "Sharing your results"
+    ]
+  },
+  {
+    "objectID": "Conducting.html",
+    "href": "Conducting.html",
+    "title": "Conducting your research project",
+    "section": "",
+    "text": "Conducting your research project\n\n\n\nOpen Research practice\nLinks to resources\nAlignment with FAIR\n\n\n\n\nDevelop a pre-registration document\nUKRN Primer: Pre-registration and Registered Reports\nFindable & Accessible\n\n\nUse open source software and tools\nUKRN open software and code open software & code animation (3 minutes) and open software & code video (8 minutes)\nUKRN Primer: Open Code and Software\nInteroperable & Reusable\n\n\nDocument your data collection process\nFOSTER course: Managing & Sharing Research Data\nThe Turing Way: A handbook for reproducible, ethical and collaborative research: open notebooks\nFindable & Reusable\n\n\nShare preliminary findings via preprints and conference presentations\nUKRN preprints animation (3 minutes) and preprints video (6 minutes)\nUKRN Primer: Preprints\nFindable & Accessible\n\n\n\nNext section: Analysis and interpretation of your results",
+    "crumbs": [
+      "Conducting your research"
+    ]
+  },
+  {
+    "objectID": "Planning.html",
+    "href": "Planning.html",
+    "title": "Planning your research project",
+    "section": "",
+    "text": "Planning your research project\nIn the planning phase you will identify and develop your research questions, and may conduct related tasks including literature reviews, formulating research hypotheses or considering design methodologies.\n\n\n\nOpen Research practice\nLinks to resources\nAlignment with FAIR\n\n\nEngaging with pre-registered studies and protocols allows early insight into research plans and methodology, reducing duplication of efforts and eliminating HARKing (Hypothesizing After the Results are Known)\nUKRI Preregistration animation (3 minutes) and video (9 minutes)\nOpen Science Framework: Preregistration\nUKRN Primer: Pre-registration and Registered Reports\nPROSPERO (systematic review protocols)\nFindable & Accessible\n\n\nUsing existing open datasets can inspire new research questions and applications. Examining data trends and patterns can guide the development of focused research plans and hypotheses\nUK Data Service: new to using data\nUKRN Data sharing video (20 minutes)\nAccessible & Reusable\n\n\nOpen peer review practices can encourage early feedback on research proposals, potentially improving the quality and focus of the planned project. It creates trust in the review process, and gives credit to reviewers\nFOSTER course: Open Peer Review\nFindable\n\n\n\nNext section: Securing funding and building your research team",
+    "crumbs": [
+      "Planning your project"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to this introduction to Open Research",
+    "section": "",
+    "text": "This self-study module can be completed in your own time. It covers the core principles and practices of open research, which include open access publishing, data sharing and transparent methodologies. You will explore:\n\nThe benefits and challenges associated with open research, including its potential to accelerate progress, enhance research integrity, and foster public engagement with research.\nThe practical application of open research in various academic disciplines and research contexts.\n\nThis module is designed for:\n\nPhD students and researchers seeking to expand their knowledge and understanding of open research practices.\nEducators and professionals interested in learning how open research can benefit their field and contribute to a more transparent and collaborative research ecosystem.\nAnyone with a curiosity about research, especially how research is conducted and shared.\n\n\n\n\n\nThere is no “one size fits all” way of adopting open research practices.\nAs you progress through this module, you will discover the open research principles that can be adopted at each stage of a research project. You may be very familiar with some already, and for any that are new to you there are links to openly available resources, offering practical support and guidance.\nOpen research is more than just making research findings public. It’s a philosophy that encourages transparency, accessibility, and collaboration throughout the entire research process. This module focuses on the FAIR principles as an open research practice for improving confidence in research:\n\n\n\n\nFindable: Research data and publications should be easy to discover using clear and consistent identification methods. \nAccessible: Data and publications should be readily available to anyone with minimal barriers, often through open access repositories. \nInteroperable: Data should be presented in a standardised format that allows for seamless integration and analysis with other datasets. \nReusable: Data and publications should be accompanied by clear documentation and licensing, allowing others to understand and build upon them. \n\n\n\n\nBy adhering to FAIR principles, open research enhances: \n\nTransparency: Openness in methodology, data, and findings allows for scrutiny and replication by other researchers. This strengthens the credibility of research and helps identify potential biases or errors. \nCollaboration: FAIR data facilitates collaboration by enabling researchers to easily access, understand, and integrate existing datasets into their own work. This accelerates progress by building upon existing knowledge. \nReproducibility: Clear documentation and accessible data allow other researchers to reproduce the study’s findings, verifying the research and fostering trust in its conclusions. \nEfficiency: Open sharing of data and methods eliminates the need for researchers to duplicate efforts, saving time and resources. \nPublic Engagement: Accessibility of research findings allows the public to understand scientific advancements and their potential impact on society. This fosters public trust in research and informed decision making.\n\n\n\n\nFunders, institutions, research groups and individual researchers from around the world are actively working to overcome technical, cultural, ethical, legal and financial challeges to make open research the norm. This includes developing robust infrastructure, fostering a culture that values openness, ensuring ethical practices, clarifying legal frameworks, and establishing sustainable funding models.\nNext section: Planning your research project",
+    "crumbs": [
+      "Principles of Open Research"
+    ]
+  },
+  {
+    "objectID": "index.html#sec-principles-of-open-research",
+    "href": "index.html#sec-principles-of-open-research",
+    "title": "Welcome to this introduction to Open Research",
+    "section": "",
+    "text": "There is no “one size fits all” way of adopting open research practices.\nAs you progress through this module, you will discover the open research principles that can be adopted at each stage of a research project. You may be very familiar with some already, and for any that are new to you there are links to openly available resources, offering practical support and guidance.\nOpen research is more than just making research findings public. It’s a philosophy that encourages transparency, accessibility, and collaboration throughout the entire research process. This module focuses on the FAIR principles as an open research practice for improving confidence in research:\n\n\n\n\nFindable: Research data and publications should be easy to discover using clear and consistent identification methods. \nAccessible: Data and publications should be readily available to anyone with minimal barriers, often through open access repositories. \nInteroperable: Data should be presented in a standardised format that allows for seamless integration and analysis with other datasets. \nReusable: Data and publications should be accompanied by clear documentation and licensing, allowing others to understand and build upon them. \n\n\n\n\nBy adhering to FAIR principles, open research enhances: \n\nTransparency: Openness in methodology, data, and findings allows for scrutiny and replication by other researchers. This strengthens the credibility of research and helps identify potential biases or errors. \nCollaboration: FAIR data facilitates collaboration by enabling researchers to easily access, understand, and integrate existing datasets into their own work. This accelerates progress by building upon existing knowledge. \nReproducibility: Clear documentation and accessible data allow other researchers to reproduce the study’s findings, verifying the research and fostering trust in its conclusions. \nEfficiency: Open sharing of data and methods eliminates the need for researchers to duplicate efforts, saving time and resources. \nPublic Engagement: Accessibility of research findings allows the public to understand scientific advancements and their potential impact on society. This fosters public trust in research and informed decision making.\n\n\n\n\nFunders, institutions, research groups and individual researchers from around the world are actively working to overcome technical, cultural, ethical, legal and financial challeges to make open research the norm. This includes developing robust infrastructure, fostering a culture that values openness, ensuring ethical practices, clarifying legal frameworks, and establishing sustainable funding models.\nNext section: Planning your research project",
+    "crumbs": [
+      "Principles of Open Research"
+    ]
+  },
+  {
+    "objectID": "Funding.html",
+    "href": "Funding.html",
+    "title": "Securing funding and building your research team",
+    "section": "",
+    "text": "Securing funding and building your research team\n\nA note about research data\nYour research data is the information you collect, observe or generate to support and validate your findings.\n\nEvidence-based: Research data serves as the foundation for research. It’s what allows researchers to build a case for their findings and conclusions. \nVaried formats: Data can come in many forms and can be digital and non-digital. For example, research may involve experimental data, surveys or field studies, observational data, reusing existing datasets, textual analysis, archival research, qualitatative data or artworks.\n\n\n\n\nOpen Research practice\nLinks to resources\nAlignment with FAIR\n\n\n\n\nState your intention to share data openly, outlining specific data types and access conditions\nUKRN Primer Data sharing\nAccessible & Interoperable\n\n\nName your chosen data repository and outline your data management plans for during and after the project including file type\nDigital Curation Centre: Data Management Plans\nFindable & Interoperable\n\n\nCommit to making your research findings open access (via publisher or repository routes)\nUKRN Open Access animation (3 minutes) and video (10 minutes)\nUKRN Primer: Open Access\nAccessible\n\n\nExplain your commitment to transparent and replicable research methods\nSharing the Recipe: Reproducibility and Replicability in Research Across Disciplines\nWhile not directly addressing with FAIR principles, this promotes transparency (by referencing open methodology resources) and reproducibility (by pre-registering the study)\n\n\n\nNext section: Conducting your research",
+    "crumbs": [
+      "Securing funding and building your research team"
+    ]
+  },
+  {
+    "objectID": "Analysing.html",
+    "href": "Analysing.html",
+    "title": "Analysis and interpretation of your results",
+    "section": "",
+    "text": "Analysis and interpretation of your results\n\n\n\nOpen Research practice\nLinks to resources\nAlignment with FAIR\n\n\n\n\nUpload your (anonymised if appropriate) research data to a trusted open access data repository\nFOSTER course: assessing the FAIR-ness of data\nAccessible & Reusable\n\n\nShare your code for data analysis, visualisation, and statistical computations on platforms like GitHub\nNCRM To share or not to share: code sharing in social science\nThe Turing Way: A handbook for reproducible, ethical and collaborative research: reproducible code\nReusable\n\n\nIf you pre-registered your study, revisit the planned analysis methods and document any deviations during the analysis stage\nUKRN Primer: Pre-registration and Registered Reports\nNational Cyber Security guidance: Produce clean & maintainable code\nFindable & Reusable\n\n\n\nNext section: Sharing your results",
+    "crumbs": [
+      "Analysis and interpretation of your results"
+    ]
+  },
+  {
+    "objectID": "Evaluating.html",
+    "href": "Evaluating.html",
+    "title": "Evaluation and impact",
+    "section": "",
+    "text": "Evaluation and impact\n\n\n\nOpen Research practive\nLinks to resources\nAlignment with FAIR\n\n\n\n\nTrack the number of times your research data has been downloaded from open repositories\nCheck your dataset record in each repository for the number of downloads\nFinadable\n\n\nDocument and share examples of your research impacting policy\nFast Track Impact\nAccessible\n\n\nStudies by other researchers building on your work, enabled by open data and sharing your code\nThe Turing Way: A handbook for reproducible, ethical and collaborative research\nData\nCode\nAccessible\n\n\nAltmetrics track mentions of your research on social media, news outlets and policy documents. This provides a broader picture of your research’s reach and influence beyond traditional academic citations\nUniversity of Southampton Library: altmetrics\nFindable\n\n\n\nNext section: Further resources",
+    "crumbs": [
+      "Evaluation and impact"
+    ]
+  },
+  {
+    "objectID": "Quiz.html",
+    "href": "Quiz.html",
+    "title": "Test your understanding",
+    "section": "",
+    "text": "Test your understanding\nQuestion 1: Which of the following best describes the primary goal of open research?\n\nto restrict access to research findings to only a select group of experts\nto increase the transparency, accessibility, and reproducibility of research\nto ensure that all research is conducted privately and results are kept confidential\nto prioritise commercial interests over public knowledge and scientific progress\n\n\n\n\n\n\n\nClick to reveal the answer to Question 1\n\n\n\n\n\n\nto increase the transparency, accessibility, and reproducibility of research\n\n\n\n\nQuestion 2: Which of the following is a key consideration when planning your research project?\n\nchoosing a research topic that has never been explored before\nidentifying and addressing ethical considerations related to data sharing (and participant consent if relevant)\nkeeping all research methodologies confidential until the project is completed\nplanning to publish results in the most expensive journal possible\n\n\n\n\n\n\n\nClick to reveal the answer to Question 2\n\n\n\n\n\n\nidentifying and addressing ethical considerations related to data sharing (and participant consent if relevant)\n\n\n\n\nQuestion 3: Which practice best aligns with open research principles in the analysis stage of your research project?\n\nusing open-source software for data analysis to ensure transparency and reproducibility\nrelying on proprietary software that limits the ability of others to replicate your findings\nusing open-source software for data analysis to ensure transparency and reproducibility\n\n\n\n\n\n\n\nClick to reveal the answer to Question 3\n\n\n\n\n\n\nusing open-source software for data analysis to ensure transparency and reproducibility\n\n\n\n\nQuestion 4: What is a key component of sharing results in open research?\n\npublishing your findings in a paywalled journal without uploading a version of your article to a repository\npublishing only a summary of your findings without making the underlying data or code available\nmaking your data, code and publications openly available\n\n\n\n\n\n\n\nClick to reveal the answer to Question 4\n\n\n\n\n\n\nmaking your data, code and publications openly available\n\n\n\n\nQuestion 5: Which of the following best measures the impact of your open research project?\n\ntracking the number of downloads and citations of your openly shared data and publications\ncounting the number of citations your work receives\nevaluating the financial profit generated from your research findings\n\n\n\n\n\n\n\nClick to reveal the answer to Question 5\n\n\n\n\n\n\ntracking the number of downloads and citations of your openly shared data and publications",
+    "crumbs": [
+      "Test your understanding"
+    ]
+  }
+]

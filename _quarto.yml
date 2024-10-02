@@ -1,6 +1,7 @@
 project:
   title: "OpenResearch"
   type: website
+  output-dir: docs
   render: 
     - index.qmd
     - Planning.qmd
