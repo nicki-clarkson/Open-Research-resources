@@ -41,6 +41,6 @@ By adhering to FAIR principles, open research enhances: 
 
 ### Challenges to Open Research
 
-Funders, institutions, research groups and individual researchers from around the world are actively working to overcome technical, cultural, ethical, legal and financial challeges to make open research the norm. This includes developing robust infrastructure, fostering a culture that values openness, ensuring ethical practices, clarifying legal frameworks, and establishing sustainable funding models.
+Funders, institutions, research groups and individual researchers from around the world are actively working to overcome technical, cultural, ethical, legal and financial challenges to make open research the norm. This includes developing robust infrastructure, fostering a culture that values openness, ensuring ethical practices, clarifying legal frameworks, and establishing sustainable funding models.
 
 Next section: [Planning your research project](Planning.qmd#sec-Planning)
