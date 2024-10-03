@@ -35,9 +35,9 @@ By adhering to FAIR principles, open research enhances: 
 
 -   **Transparency**: Openness in methodology, data, and findings allows for scrutiny and replication by other researchers. This strengthens the credibility of research and helps identify potential biases or errors. 
 -   **Collaboration**: FAIR data facilitates collaboration by enabling researchers to easily access, understand, and integrate existing datasets into their own work. This accelerates progress by building upon existing knowledge. 
--   **Reproducibility**: Clear documentation and accessible data allow other researchers to reproduce the study's findings, verifying the research and fostering trust in its conclusions. 
+-   **Reproducibility**: Clear documentation and accessible data allow other researchers to reproduce findings, verifying research and fostering trust in its conclusions. 
 -   **Efficiency**: Open sharing of data and methods eliminates the need for researchers to duplicate efforts, saving time and resources. 
--   **Public Engagement**: Accessibility of research findings allows the public to understand scientific advancements and their potential impact on society. This fosters public trust in research and informed decision making.
+-   **Public Engagement**: Accessibility of research findings allows the public to understand scientific advancements and their potential impact on society. This increases public trust in research and informed decision making.
 
 ### Challenges to Open Research
 
