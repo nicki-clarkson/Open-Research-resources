@@ -202,8 +202,8 @@ ul.task-list li input[type="checkbox"] {
 <h1>Welcome to this introduction to Open Research</h1>
 <p>This self-study module can be completed in your own time. It covers the <strong>core principles and practices</strong> of open research, which include open access publishing, data sharing and transparent methodologies. You will explore:</p>
 <ul>
-<li><p>The <strong>benefits and challenges</strong> associated with open research, including its potential to accelerate progress, enhance research integrity, and foster public engagement with research.</p></li>
-<li><p>The <strong>practical application</strong> of open research in various academic disciplines and research contexts.</p></li>
+<li>The <strong>benefits and challenges</strong> associated with open research, including its potential to accelerate progress, enhance research integrity, and foster public engagement with research.</li>
+<li>The <strong>practical application</strong> of open research in various academic disciplines and research contexts.</li>
 </ul>
 <p>This module is designed for:</p>
 <ul>
@@ -215,26 +215,26 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="sec-principles-of-open-research">Principles of Open Research</h2>
 <section id="open-research-and-you" class="level3">
 <h3 class="anchored" data-anchor-id="open-research-and-you">Open Research and You</h3>
-<p>There is no “one size fits all” way of adopting open research practices.</p>
+<p>There is no “one size fits all” way of adopting open research practices and some of the suggestions we make may not be relevant to your type or area of research.</p>
 <p>As you progress through this module, you will discover the open research principles that can be adopted at each stage of a research project. You may be very familiar with some already, and for any that are new to you there are links to openly available resources, offering practical support and guidance.</p>
 <p>Open research is more than just making research findings public. It’s a philosophy that encourages transparency, accessibility, and collaboration throughout the entire research process. This module focuses on the FAIR principles as an open research practice for improving confidence in research:</p>
 </section>
 <section id="fair-principles" class="level3">
 <h3 class="anchored" data-anchor-id="fair-principles">FAIR principles</h3>
 <ul>
-<li><strong>Findable</strong>: Research data and publications should be easy to discover using clear and consistent identification methods.&nbsp;</li>
-<li><strong>Accessible</strong>: Data and publications should be readily available to anyone with minimal barriers, often through open access repositories.&nbsp;</li>
+<li><strong>Findable</strong>: Research data, software and publications should be easy to discover using clear and consistent identification methods.&nbsp;</li>
+<li><strong>Accessible</strong>: Data, software and publications should be readily available to anyone with minimal barriers, often through open access repositories.&nbsp;</li>
 <li><strong>Interoperable</strong>: Data should be presented in a standardised format that allows for seamless integration and analysis with other datasets.&nbsp;</li>
-<li><strong>Reusable</strong>: Data and publications should be accompanied by clear documentation and licensing, allowing others to understand and build upon them.&nbsp;</li>
+<li><strong>Reusable</strong>: Data, software and publications should be accompanied by clear documentation and licensing, allowing others to understand and build upon them.&nbsp;</li>
 </ul>
 </section>
 <section id="benefits-of-open-research" class="level3">
 <h3 class="anchored" data-anchor-id="benefits-of-open-research">Benefits of Open Research</h3>
 <p>By adhering to FAIR principles, open research enhances:&nbsp;</p>
 <ul>
-<li><strong>Transparency</strong>: Openness in methodology, data, and findings allows for scrutiny and replication by other researchers. This strengthens the credibility of research and helps identify potential biases or errors.&nbsp;</li>
-<li><strong>Collaboration</strong>: FAIR data facilitates collaboration by enabling researchers to easily access, understand, and integrate existing datasets into their own work. This accelerates progress by building upon existing knowledge.&nbsp;</li>
-<li><strong>Reproducibility</strong>: Clear documentation and accessible data allow other researchers to reproduce findings, verifying research and fostering trust in its conclusions.&nbsp;</li>
+<li><strong>Transparency</strong>: Openness in methodology, data and findings allows for scrutiny and replication by other researchers. This strengthens the credibility of research and helps identify potential biases or errors.&nbsp;</li>
+<li><strong>Collaboration</strong>: The FAIR principles facilitate collaboration by enabling researchers to easily access, understand, and integrate existing datasets into their own work. This accelerates progress by building upon existing knowledge.&nbsp;</li>
+<li><strong>Reproducibility</strong>: Clear documentation and accessible data allow other researchers to reproduce findings, verifying research and fostering trust in research conclusions.&nbsp;</li>
 <li><strong>Efficiency</strong>: Open sharing of data and methods eliminates the need for researchers to duplicate efforts, saving time and resources.&nbsp;</li>
 <li><strong>Public Engagement</strong>: Accessibility of research findings allows the public to understand scientific advancements and their potential impact on society. This increases public trust in research and informed decision making.</li>
 </ul>
@@ -500,6 +500,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
