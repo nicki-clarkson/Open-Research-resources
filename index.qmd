@@ -3,7 +3,6 @@
 This self-study module can be completed in your own time. It covers the **core principles and practices** of open research, which include open access publishing, data sharing and transparent methodologies. You will explore:
 
 -   The **benefits and challenges** associated with open research, including its potential to accelerate progress, enhance research integrity, and foster public engagement with research.
-
 -   The **practical application** of open research in various academic disciplines and research contexts.
 
 This module is designed for:
@@ -16,7 +15,7 @@ This module is designed for:
 
 ### Open Research and You
 
-There is no "one size fits all" way of adopting open research practices.
+There is no "one size fits all" way of adopting open research practices and some of the suggestions we make may not be relevant to your type or area of research.
 
 As you progress through this module, you will discover the open research principles that can be adopted at each stage of a research project. You may be very familiar with some already, and for any that are new to you there are links to openly available resources, offering practical support and guidance.
 
@@ -24,18 +23,18 @@ Open research is more than just making research findings public. It's a philosop
 
 ### FAIR principles
 
--   **Findable**: Research data and publications should be easy to discover using clear and consistent identification methods. 
--   **Accessible**: Data and publications should be readily available to anyone with minimal barriers, often through open access repositories. 
+-   **Findable**: Research data, software and publications should be easy to discover using clear and consistent identification methods. 
+-   **Accessible**: Data, software and publications should be readily available to anyone with minimal barriers, often through open access repositories. 
 -   **Interoperable**: Data should be presented in a standardised format that allows for seamless integration and analysis with other datasets. 
--   **Reusable**: Data and publications should be accompanied by clear documentation and licensing, allowing others to understand and build upon them. 
+-   **Reusable**: Data, software and publications should be accompanied by clear documentation and licensing, allowing others to understand and build upon them. 
 
 ### Benefits of Open Research
 
 By adhering to FAIR principles, open research enhances: 
 
--   **Transparency**: Openness in methodology, data, and findings allows for scrutiny and replication by other researchers. This strengthens the credibility of research and helps identify potential biases or errors. 
--   **Collaboration**: FAIR data facilitates collaboration by enabling researchers to easily access, understand, and integrate existing datasets into their own work. This accelerates progress by building upon existing knowledge. 
--   **Reproducibility**: Clear documentation and accessible data allow other researchers to reproduce findings, verifying research and fostering trust in its conclusions. 
+-   **Transparency**: Openness in methodology, data and findings allows for scrutiny and replication by other researchers. This strengthens the credibility of research and helps identify potential biases or errors. 
+-   **Collaboration**: The FAIR principles facilitate collaboration by enabling researchers to easily access, understand, and integrate existing datasets into their own work. This accelerates progress by building upon existing knowledge. 
+-   **Reproducibility**: Clear documentation and accessible data allow other researchers to reproduce findings, verifying research and fostering trust in research conclusions. 
 -   **Efficiency**: Open sharing of data and methods eliminates the need for researchers to duplicate efforts, saving time and resources. 
 -   **Public Engagement**: Accessibility of research findings allows the public to understand scientific advancements and their potential impact on society. This increases public trust in research and informed decision making.
 
