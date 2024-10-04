@@ -245,7 +245,7 @@ Click to reveal the answer to Question 2
 <ol type="a">
 <li>using open-source software for data analysis to ensure transparency and reproducibility</li>
 <li>relying on proprietary software that limits the ability of others to replicate your findings</li>
-<li>using open-source software for data analysis to ensure transparency and reproducibility</li>
+<li>arguing that open research is only about sharing data, but not about sharing methods or code</li>
 </ol>
 <div class="callout callout-style-default callout-caution callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
@@ -313,6 +313,7 @@ Click to reveal the answer to Question 5
 </div>
 </div>
 </div>
+<p>Next section: <a href="./About.html#sec-about">About this resource</a></p>
 
 
 </section>
@@ -568,6 +569,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -203,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Track the number of times your research data has been downloaded from open repositories</td>
 <td>Check your dataset record in each repository for the number of downloads</td>
-<td>Finadable</td>
+<td>Findable</td>
 </tr>
 <tr class="even">
 <td>Document and share examples of your research impacting policy</td>
@@ -480,6 +480,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -30,7 +30,7 @@ b)  identifying and addressing ethical considerations related to data sharing (a
 
 a)  using open-source software for data analysis to ensure transparency and reproducibility
 b)  relying on proprietary software that limits the ability of others to replicate your findings
-c)  using open-source software for data analysis to ensure transparency and reproducibility
+c)  arguing that open research is only about sharing data, but not about sharing methods or code
 
 ::: {.callout-caution collapse="true"}
 ## Click to reveal the answer to Question 3
@@ -61,3 +61,5 @@ c)  evaluating the financial profit generated from your research findings
 
 a)  tracking the number of downloads and citations of your openly shared data and publications
 :::
+
+Next section: [About this resource](About.qmd#sec-about)
