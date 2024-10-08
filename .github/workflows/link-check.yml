@@ -1,0 +1,34 @@
+name: Check for broken links and send email
+
+on:
+  schedule:
+    # Runs every day at midnight (UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      # Run the link checker and save the output to a report.txt
+      - name: Run link checker
+        id: linkchecker
+        uses: lycheeverse/lychee-action@v1.6.1
+        with:
+          args: --verbose --output report.txt
+        continue-on-error: true  # Ensure next steps run even if broken links are found
+      
+      # Set up Python environment and send the email
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install email dependencies
+        run: pip install smtplib email
+
+      # Run the Python script to send the email with the report attached
+      - name: Send Email with Report
+        run: python send_email.py
