@@ -194,14 +194,15 @@ ul.task-list li input[type="checkbox"] {
 <table class="caption-top table">
 <thead>
 <tr class="header">
-<th>Open Research practive</th>
+<th>Open Research practice</th>
 <th>Links to resources</th>
 <th>Alignment with FAIR</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Track the number of times your research data has been downloaded from open repositories</td>
+<td><p>Track the number of times your research data has been downloaded from open repositories</p>
+<p>As with all metrics, numbers only tell part of the story and should be used to support expert judgement; the number of downloads will be affected by discipline and year of publication</p></td>
 <td>Check your dataset record in each repository for the number of downloads</td>
 <td>Findable</td>
 </tr>
@@ -218,7 +219,8 @@ ul.task-list li input[type="checkbox"] {
 <td>Accessible</td>
 </tr>
 <tr class="even">
-<td>Altmetrics track mentions of your research on social media, news outlets and policy documents. This provides a broader picture of your research’s reach and influence beyond traditional academic citations</td>
+<td><p>Altmetrics track mentions of your research on social media, news outlets and policy documents. This provides a broader picture of the reach and influence of your research beyond traditional academic citations</p>
+<p>Altmetrics should only be used as a guide for how much attention a research output is receiving relative to similarly aged outputs; high scores are indicative of high engagement, but altmetrics cannot tell the difference between negative and positive attention</p></td>
 <td>University of Southampton Library: <a href="https://library.soton.ac.uk/bibliometrics/altmetrics/guide">altmetrics</a></td>
 <td>Findable</td>
 </tr>
@@ -485,6 +487,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           if (link.getAttribute("rel") === null) {
             link.setAttribute("rel", "noopener");
           }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
