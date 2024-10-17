@@ -17,6 +17,7 @@ project:
   
 website: 
   title: "Introduction to Open Research"
+  google-analytics: "G-V160XR6K4W"
   sidebar: 
     style: docked
     search: true
