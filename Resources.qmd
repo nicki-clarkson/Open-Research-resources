@@ -1,8 +1,8 @@
 # Further resources {#sec-resources}
 
-## FOSTER Open Science learning paths
+## UNESCO Open Science
 
-[FOSTER Open Science learning paths](https://www.fosteropenscience.eu/)
+[UNESCO Open Science toolkit](https://www.unesco.org/en/open-science/toolkit)
 
 ## Open research in your field
 
