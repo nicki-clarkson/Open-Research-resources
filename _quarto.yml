@@ -17,7 +17,13 @@ project:
   
 website: 
   title: "Introduction to Open Research"
-  google-analytics: "G-V160XR6K4W"
+  repo-url: https://github.com/nicki-clarkson/Open-Research-resources
+  repo-branch: main
+  repo-actions:
+  - edit
+  - issue
+  google-analytics: 
+    tracking-id: "G-V160XR6K4W"
   sidebar: 
     style: docked
     search: true
