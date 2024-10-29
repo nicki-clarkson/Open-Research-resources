@@ -40,11 +40,11 @@
     ]
   },
   {
-    "objectID": "Resources.html#foster-open-science-learning-paths",
-    "href": "Resources.html#foster-open-science-learning-paths",
+    "objectID": "Resources.html#unesco-open-science",
+    "href": "Resources.html#unesco-open-science",
     "title": "Further resources",
     "section": "",
-    "text": "FOSTER Open Science learning paths",
+    "text": "UNESCO Open Science toolkit",
     "crumbs": [
       "Further resources"
     ]
@@ -147,16 +147,6 @@
     "text": "Test your understanding\nQuestion 1: Which of the following best describes the primary goal of open research?\n\nto restrict access to research findings to only a select group of experts\nto increase the transparency, accessibility, and reproducibility of research\nto ensure that all research is conducted privately and results are kept confidential\nto prioritise commercial interests over public knowledge and scientific progress\n\n\n\n\n\n\n\nClick to reveal the answer to Question 1\n\n\n\n\n\n\nto increase the transparency, accessibility, and reproducibility of research\n\n\n\n\nQuestion 2: Which of the following is a key consideration when planning your research project?\n\nchoosing a research topic that has never been explored before\nidentifying and addressing ethical considerations related to data sharing (and participant consent if relevant)\nkeeping all research methodologies confidential until the project is completed\nplanning to publish results in the most expensive journal possible\n\n\n\n\n\n\n\nClick to reveal the answer to Question 2\n\n\n\n\n\n\nidentifying and addressing ethical considerations related to data sharing (and participant consent if relevant)\n\n\n\n\nQuestion 3: Which practice best aligns with open research principles in the analysis stage of your research project?\n\nusing open-source software for data analysis to ensure transparency and reproducibility\nrelying on proprietary software that limits the ability of others to replicate your findings\narguing that open research is only about sharing data, but not about sharing methods or code\n\n\n\n\n\n\n\nClick to reveal the answer to Question 3\n\n\n\n\n\n\nusing open-source software for data analysis to ensure transparency and reproducibility\n\n\n\n\nQuestion 4: What is a key component of sharing results in open research?\n\npublishing your findings in a paywalled journal without uploading a version of your article to a repository\npublishing only a summary of your findings without making the underlying data or code available\nmaking your data, code and publications openly available\n\n\n\n\n\n\n\nClick to reveal the answer to Question 4\n\n\n\n\n\n\nmaking your data, code and publications openly available\n\n\n\n\nQuestion 5: Which of the following best measures the impact of your open research project?\n\ntracking the number of downloads and citations of your openly shared data and publications\ncounting the number of citations your work receives\nevaluating the financial profit generated from your research findings\n\n\n\n\n\n\n\nClick to reveal the answer to Question 5\n\n\n\n\n\n\ntracking the number of downloads and citations of your openly shared data and publications\n\n\n\n\nNext section: About this resource",
     "crumbs": [
       "Test your understanding"
-    ]
-  },
-  {
-    "objectID": "Resources.html#unesco-open-science",
-    "href": "Resources.html#unesco-open-science",
-    "title": "Further resources",
-    "section": "",
-    "text": "UNESCO Open Science toolkit",
-    "crumbs": [
-      "Further resources"
     ]
   }
 ]
