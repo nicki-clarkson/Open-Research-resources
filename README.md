@@ -1,6 +1,6 @@
 
 
-## README for Introduction to Open Research
+## Introduction to Open Research
 
 This self-study module was created by the Open Research & Publication
 Practice Team at the University of Southampton Library. If you have any
@@ -21,21 +21,24 @@ resources I used (including ChatGPT…and human colleagues!)
 
 To use this project, you can clone the repository:
 
-\`\`\`bash
+``` bash
 
 git clone https://github.com/nicki-clarkson/Open-Research-resources.git
+```
 
 # Install required packages in R
 
+``` r
 install.packages(“quarto”)
+```
 
 ## Usage
 
 To render the project, use the following command in RStudio:
 
-\`\`\`r
-
+``` r
 quarto::quarto_render()
+```
 
 ## Project Structure
 
